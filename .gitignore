@@ -1,0 +1,7 @@
+# Mid-training checkpoints (large: weights + optimizer + replay buffer)
+models/checkpoints/
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
