@@ -3,5 +3,5 @@ gymnasium[atari]==1.4.0
 ale-py==0.12.1
 numpy==2.5.5
 pandas==3.0.1
-torch==2.12.0
+tensorflow==2.21.0
 matplotlib==3.10.8
